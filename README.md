@@ -1,4 +1,4 @@
-# A1-DA2
+# A1_DA2-Supervised Learning
 BMEE407L-Artificial Intelligence
 # Spam Classification Model
 
